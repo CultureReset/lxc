@@ -1,3 +1,5 @@
+> **Not part of Ghost.** This is a copy of the LXC Linux container runtime, kept for reference. It is not installed on a Ghost box.
+
 # LXC
 
 LXC is the well-known and heavily tested low-level Linux container runtime. It
