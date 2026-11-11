@@ -1,3 +1,14 @@
+> **CultureReset fork of [lxc/lxc](https://github.com/lxc/lxc).** LXC - Linux Containers.
+>
+> - **Why it is here:** Saved for reference.
+> - **Does anything run from it:** No.
+> - **Changes:** The default branch has no CultureReset commits; it is upstream as of the last sync.
+> - **License:** see upstream; this fork does not change it. For updates and issues, use [upstream](https://github.com/lxc/lxc).
+>
+> The upstream README follows unchanged.
+
+---
+
 # LXC
 
 LXC is the well-known and heavily tested low-level Linux container runtime. It
